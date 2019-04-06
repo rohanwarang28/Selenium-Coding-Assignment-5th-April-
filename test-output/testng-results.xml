@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100546" started-at="2019-04-06T14:40:17Z" finished-at="2019-04-06T14:41:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="100546" started-at="2019-04-06T14:40:17Z" finished-at="2019-04-06T14:41:57Z">
+      <class name="com.crm.Tests.SearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.Tests.SearchPageTest@37d31475]" name="setUp" is-config="true" duration-ms="26256" started-at="2019-04-06T20:10:17Z" finished-at="2019-04-06T20:10:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectProperty()[pri:0, instance:com.crm.Tests.SearchPageTest@37d31475]" name="selectProperty" duration-ms="270" started-at="2019-04-06T20:10:43Z" finished-at="2019-04-06T20:10:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProperty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.Tests.SearchPageTest@37d31475]" name="tearDown" is-config="true" duration-ms="984" started-at="2019-04-06T20:10:43Z" finished-at="2019-04-06T20:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.Tests.SearchPageTest@37d31475]" name="setUp" is-config="true" duration-ms="24180" started-at="2019-04-06T20:10:44Z" finished-at="2019-04-06T20:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortByPrice()[pri:0, instance:com.crm.Tests.SearchPageTest@37d31475]" name="sortByPrice" duration-ms="901" started-at="2019-04-06T20:11:08Z" finished-at="2019-04-06T20:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.Tests.SearchPageTest@37d31475]" name="tearDown" is-config="true" duration-ms="834" started-at="2019-04-06T20:11:09Z" finished-at="2019-04-06T20:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.Tests.SearchPageTest -->
+      <class name="com.crm.Tests.AgentPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.Tests.AgentPageTest@27808f31]" name="setUp" is-config="true" duration-ms="45928" started-at="2019-04-06T20:11:10Z" finished-at="2019-04-06T20:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAgentName()[pri:0, instance:com.crm.Tests.AgentPageTest@27808f31]" name="validateAgentName" duration-ms="107" started-at="2019-04-06T20:11:56Z" finished-at="2019-04-06T20:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAgentName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.Tests.AgentPageTest@27808f31]" name="tearDown" is-config="true" duration-ms="1019" started-at="2019-04-06T20:11:56Z" finished-at="2019-04-06T20:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.Tests.AgentPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
